@@ -1,7 +1,7 @@
 # 🎃HACKTOBERFEST 2022🎃
 
-![alt-text](https://github.com/pixobia/projects-for-hacktoberfest?style=flat-square) 
-![alt-text](https://github.com/pixobia?tab=followers?style=social)
+![alt-text](https://img.shields.io/github/hacktoberfest/2022/pixobia/projects-for-hacktoberfest?style=flat-square) 
+![alt-text](https://img.shields.io/github/followers/pixobia?style=social)
 ![alt-text](https://img.shields.io/github/forks/pixobia/projects-for-hacktoberfest?style=social)
 
 
