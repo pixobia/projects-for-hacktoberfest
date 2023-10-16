@@ -1,0 +1,88 @@
+body{
+    background-color:rgb(116, 18, 136);
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+.container{
+    width: 200px;
+    height: 340px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    margin: 100px auto;
+    /* box-shadow: 2px 5px 10px yellow; */
+    border-radius: 10px;
+    
+}
+
+.input input{
+    width:182px ;
+    height:55px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 5px;
+    color: black;
+    font-size: 24px;
+    /* background-color: black; */
+}
+
+.line-1{
+    display: flex;
+    cursor: pointer;
+}
+
+.box-1:hover{
+    background-color: rgb(10, 10, 10);
+}
+
+.box-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(44, 44, 44);
+    margin: 3px 3px 0 0;
+    /* color: rgb(116, 18, 136); */
+}
+
+.box-1:nth-child(2){
+    background-color: rgb(44, 44, 44);
+    margin-right: 3px;
+}
+.box-1:nth-child(3){
+    background-color: rgb(44, 44, 44);
+    margin-right: 3px;
+}
+.box-1:nth-child(4){
+    color: white;
+    background-color: rgb(77, 3, 92);
+}
+
+.equal{
+    width: 103px;
+    background-color:rgb(77, 3, 92) ;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3px;
+    margin-right: 3px;
+}
+
+.box-1:nth-child(2):hover{
+    background-color: black;
+}
+.box-1:nth-child(3):hover{
+    background-color: black;
+}
+.box-1:nth-child(4):hover{
+    background-color: rgb(61, 4, 61);
+}
+
+.equal:hover{
+    background-color: rgb(61, 4, 61);
+}
